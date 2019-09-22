@@ -672,6 +672,7 @@ body.offcanvas {
     height: 50px;
     display: table;
     margin: 0 auto;
+    margin-left: 60px;
     background: #2c98f0; }
     .services .icon:before, .services .icon:after {
       position: absolute;
